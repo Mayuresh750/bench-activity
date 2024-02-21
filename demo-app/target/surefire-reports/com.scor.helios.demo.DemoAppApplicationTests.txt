@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.scor.helios.demo.DemoAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.559 s - in com.scor.helios.demo.DemoAppApplicationTests
